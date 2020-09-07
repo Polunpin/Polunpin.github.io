@@ -62,6 +62,8 @@ git checkout --用于把暂存区域的文件还原到工作目录
 git diff 快照ID1  快照ID2  --比较两个历史快照
 
 git diff 快照ID 	--比较当前工作目录和git仓库中的快照
+
+git add . & git commit -m "提交注解"   : & 合并两个指令一起执行
 ```
 
 
